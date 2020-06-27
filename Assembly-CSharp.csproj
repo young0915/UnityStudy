@@ -60,6 +60,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Script\Enemy.cs" />
     <Compile Include="Assets\Script\Static\Static.cs" />
     <Compile Include="Assets\Script\virtualdefine\Enemy.cs" />
     <Compile Include="Assets\Script\virtualdefine\EnemyDemo.cs" />
